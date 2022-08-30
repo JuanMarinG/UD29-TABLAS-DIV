@@ -1,0 +1,33 @@
+div{
+    background-color:rgb(0, 153, 255) ;
+    width: fit-content;
+}
+table{
+    width: 500px;
+    border-style:double;
+    color: black;
+    box-shadow: 2px 2px gray;
+}
+.titulo{
+    text-transform: uppercase;
+    color: #A8DAB1;
+    background-color:#134143 ;
+}
+
+.nombre{
+    text-transform: uppercase;
+    text-align: left;
+}
+.clear{
+    background-color: #CCFFCC;
+}
+.green{
+    background-color:#99CC99;
+}
+
+th, td{
+   
+    border-width: 1px;
+    font-weight: bold;
+    
+}

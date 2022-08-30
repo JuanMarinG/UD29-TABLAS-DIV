@@ -31,3 +31,18 @@ th, td{
     font-weight: bold;
     
 }
+
+.clear2{
+    background-color: #CCFFCC;
+    text-transform: uppercase;
+}
+.green2{
+    background-color:#99CC99;
+    text-transform: uppercase;
+}
+.table2{
+    width: 350px;
+    border-style:double;
+    color: black;
+    box-shadow: 2px 2px gray;
+}

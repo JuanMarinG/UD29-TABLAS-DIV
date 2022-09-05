@@ -4,7 +4,7 @@ div{
 }
 table{
     border-style: solid;
-    border-color: black;
+    border-color: grey;
     width: 650px;
    
 
@@ -15,6 +15,7 @@ table{
 
 th, tr, td{
     border-style: solid;
+    border-color: grey;
 }
 #pais{
     text-align: center;

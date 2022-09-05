@@ -13,7 +13,7 @@
     width: 900px;
     height: 800px;
     margin:0px auto;
-    background-image: url("/ejercicio-14/img/pingüinos.jpg");
+    background-image: url("img/pingüinos.jpg");
     background-size: 900px 800px;
     background-repeat: no-repeat;
     display: flex;

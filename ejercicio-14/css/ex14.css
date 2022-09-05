@@ -1,0 +1,40 @@
+#encabezado{
+    background-color: yellow;
+}
+
+#container{
+    background-color: yellow;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    border: 1px;
+    border-style: solid;
+}
+
+#div1{
+    width: 600px;
+    height: 600px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+#div2 {
+    width: 500px;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+
+table{
+    border: 1px;
+    border-style:solid;
+}
+th, td{
+    border: 2px;
+    border-style:inset;
+}

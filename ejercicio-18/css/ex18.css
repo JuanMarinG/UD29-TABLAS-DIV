@@ -1,7 +1,7 @@
 #div1{
     width: 210px;
     height: 150px;
-    background: url("/ejercicio-18/img/f01.png") left bottom repeat-x,
+    background: url("../img/f01.png") left bottom repeat-x,
     url("../img/f02.png") left bottom no-repeat,
     url("../img/f03.png") left top repeat-x;
     background-color: #A4D3FF;
@@ -16,7 +16,7 @@
     border: 5px #CB0000;
     border-style: solid;
     margin: 30px;
-    background: url("/ejercicio-18/img/f01.png") left bottom repeat-x,
+    background: url("../img/f01.png") left bottom repeat-x,
     url("../img/f02.png") left bottom no-repeat,
     url("../img/f03.png") left top repeat-x;
     background-color: #A4D3FF;
@@ -26,7 +26,7 @@
 #div3{
     width: 210px;
     height: 150px;
-    background: url("/ejercicio-18/img/f01.png") left bottom repeat-x,
+    background: url("../img/f01.png") left bottom repeat-x,
     url("../img/f02.png") left bottom no-repeat,
     url("../img/f03.png") left top repeat-x;
     background-color: #A4D3FF;

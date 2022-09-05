@@ -1,0 +1,99 @@
+body{
+  
+    background-image: url("/ejercicio-17/img/ac.jpg");
+}
+div{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    margin:30px;
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+    font-weight: bold;
+    box-sizing: border-box;
+    
+}
+
+section{
+
+    display: flex;
+    justify-content: center;
+}
+#A{
+    background-image: url("/ejercicio-17/img/back_mantel.jpg");
+ 
+}
+#B{
+    background-image: url("/ejercicio-17/img/back_mantel.jpg");
+    background-clip: content-box;
+    padding: 30px;
+    box-sizing: border-box;
+   
+}
+#C{
+    background-image: url("/ejercicio-17/img/back_mantel.jpg");
+    background-size: 100%;
+}
+#D{
+    background-image: url("/ejercicio-17/img/back_mantel.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: white;
+ 
+}
+#E{
+    background-image: url("/ejercicio-17/img/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+#F{
+    background-image: url("/ejercicio-17/img/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: content-box;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+
+#G{
+    background-image: url("/ejercicio-17/img/dh_2.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    background-color: white;
+ 
+}
+#H{
+    background-image: url("/ejercicio-17/img/dh_3.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    background-color: white;
+ 
+}
+
+#I{
+    background: linear-gradient(to right, #d2ff52 0%, #566847 100%);
+
+}
+#J{
+    background: linear-gradient(to bottom, rgba(240,183,161,1)  0%, rgba(140,51,16,1) 80%, rgba(117,34,1,1) 51%, rgba(191,110,78,1)100%);
+
+}
+
+#K{
+    background: linear-gradient(to top, rgba(50,116,45,1) 0%, rgba(239,239,210,1) 100%);
+
+}
+#L{
+    background: linear-gradient(to top, rgba(50,116,45,1) 0%, rgba(0,0,0,0) 100%);
+ 
+}
+

@@ -46,6 +46,7 @@ https://juanmaring.github.io/UD29-TABLAS-DIV/ejercicio-17/index.html
 ```
 https://juanmaring.github.io/UD29-TABLAS-DIV/ejercicio-18/index.html
 ```
+![image](https://user-images.githubusercontent.com/108723755/188508764-30074cc4-0541-4b0b-9f72-2a606e85c4d9.png)
 
 ## Ejercicio 19
 ```
